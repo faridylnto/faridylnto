@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @faridylnto
+- Hi, I’m @faridylnto
 - 👀 I’m interested in back end developer
-- 🌱 I’m currently learning go languange
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning go languange as my main programing languange
+- you can contact me at yuliantofarid11@gmail.com
 
 <!---
 faridylnto/faridylnto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
